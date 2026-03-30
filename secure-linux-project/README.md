@@ -1,4 +1,4 @@
-# Secure File Storage and Access Management on Linux (Capstone)
+# Secure File Storage and Access Management on Linux 
 
 ## Project Overview
 This project implements a secure file storage and access management system on Linux to prevent unauthorized access and to monitor file activities.  
